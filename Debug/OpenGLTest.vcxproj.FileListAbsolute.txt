@@ -1,0 +1,2 @@
+D:\SupersLWF\OpenGLTest\Debug\OpenGLTest.exe
+D:\SupersLWF\OpenGLTest\Debug\OpenGLTest.pdb
